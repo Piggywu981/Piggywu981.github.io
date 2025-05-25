@@ -1,9 +1,9 @@
 # Trucker Mudgeon’s ATS and ETS2 Map (Ver Promods by @PiggyWu981)
 
-This repo is a GitHub Pages [deploy](https://truckermudgeon.github.io) of the [`maps`](https://github.com/truckermudgeon/maps) `demo` app. It's meant to serve as a simple online reference 
+This repo is a GitHub Pages [deploy](https://piggywu981.github.io) of the [`maps`](https://github.com/piggywu981/maps) `demo` app. It's meant to serve as a simple online reference 
 of the game maps in [American Truck Simulator](https://americantrucksimulator.com/) and [Euro Truck Simulator 2](https://eurotrucksimulator2.com/).
 
-The map also includes a hacky routing demo at [`/routes`](https://truckermudgeon.github.io/routes). 
+The map also includes a hacky routing demo at [`/routes`](https://piggywu981.github.io/routes). 
 From [the forum post](https://forum.scssoft.com/viewtopic.php?p=1899929#p1899929):
 
 > The Routes Demo is a toy page that lets you pick a starting company and an eligible ending company (based on the cargo exported from the starting
