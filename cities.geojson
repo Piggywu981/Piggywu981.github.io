@@ -966,6 +966,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[8.5311,46.6505]},"properties":{"type":"country","map":"europe","code":"CH","name":"Switzerland"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[34.4801,38.993]},"properties":{"type":"country","map":"europe","code":"TR","name":"Türkiye"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.6646,51.6098]},"properties":{"type":"country","map":"europe","code":"GB","name":"United Kingdom"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[24.3677,29.2749]},"properties":{"type":"country","map":"europe","code":"JP","name":"Japan"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[19.6947,60.1804]},"properties":{"type":"country","map":"europe","code":"AX","name":"Åland"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[45.186,40.4609]},"properties":{"type":"country","map":"europe","code":"AM","name":"Armenia"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[48.366,40.1949]},"properties":{"type":"country","map":"europe","code":"AZ","name":"Azerbaijan"}},
